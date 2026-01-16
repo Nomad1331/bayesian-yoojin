@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - **Evidence Deletion**: Users can now delete evidence items with a trash icon button
 - **Tutorial/Onboarding Modal**: Comprehensive in-app tutorial accessible via help icon in header
-- Explains the full workflow: creating cases, adding suspects, entering evidence, analyzing rankings, and reviewing audit logs
+- Explains the full workflow: creating casses, adding suspects, entering evidence, analyzing rankings, and reviewing audit logs
 - Includes tips for best practices in Bayesian analysis
 
 ### Changede
