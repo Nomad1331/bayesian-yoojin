@@ -54,26 +54,27 @@
   }
 
   .dark {
-    --background: 222 47% 5%;
-    --foreground: 210 40% 98%;
+    /* Jet black theme - true black background with subtle elevation */
+    --background: 0 0% 0%;
+    --foreground: 0 0% 95%;
 
-    --card: 222 47% 8%;
-    --card-foreground: 210 40% 98%;
+    --card: 0 0% 6%;
+    --card-foreground: 0 0% 95%;
 
-    --popover: 222 47% 8%;
-    --popover-foreground: 210 40% 98%;
+    --popover: 0 0% 6%;
+    --popover-foreground: 0 0% 95%;
 
     --primary: 199 89% 48%;
-    --primary-foreground: 222 47% 5%;
+    --primary-foreground: 0 0% 0%;
 
-    --secondary: 217 33% 15%;
-    --secondary-foreground: 210 40% 95%;
+    --secondary: 0 0% 10%;
+    --secondary-foreground: 0 0% 90%;
 
-    --muted: 217 33% 12%;
-    --muted-foreground: 215 20% 55%;
+    --muted: 0 0% 8%;
+    --muted-foreground: 0 0% 55%;
 
     --accent: 199 89% 48%;
-    --accent-foreground: 222 47% 5%;
+    --accent-foreground: 0 0% 0%;
 
     --destructive: 0 72% 51%;
     --destructive-foreground: 0 0% 100%;
@@ -84,19 +85,19 @@
     --warning: 38 92% 50%;
     --warning-foreground: 0 0% 0%;
 
-    --border: 217 33% 15%;
-    --input: 217 33% 15%;
+    --border: 0 0% 12%;
+    --input: 0 0% 12%;
     --ring: 199 89% 48%;
 
     /* Probability bar colors */
     --probability-high: 199 89% 48%;
     --probability-medium: 199 70% 40%;
-    --probability-low: 217 33% 25%;
+    --probability-low: 0 0% 20%;
 
     /* Change indicators */
     --change-positive: 142 71% 45%;
     --change-negative: 0 72% 51%;
-    --change-neutral: 215 20% 55%;
+    --change-neutral: 0 0% 55%;
   }
 }
 
